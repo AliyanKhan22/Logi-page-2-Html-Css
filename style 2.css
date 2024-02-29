@@ -1,0 +1,74 @@
+*{
+    margin:0%;
+    padding:0%;
+  }
+  input
+  {
+   outline:none;
+   border-color:black black white black;
+  }
+  input:focus 
+  {
+   border-width:0px 0px 1px 0px;
+   border-color:Red;
+  }
+  .a
+  {
+   background-color:black;
+   width:300px;
+   min-height:400px;
+   text-align:center;
+   color: white;
+   margin-left:35px;
+   margin-top:31px;
+   border:1px Solid Red;
+   border-top-right-radius:15px;
+   border-top-left-radius:15px;
+   border-Bottom-right-radius:15px;
+   border-bottom-left-radius:15px;
+   box-shadow:4px 4px 4px white;
+  }
+  .b
+  {
+   position:relative;
+  top:7%;
+  }
+  body
+  {
+ background:url(login\ image/img.jpG)center/cover
+  }
+  .c
+  {
+   border:none;
+   background-color: black ;
+   border-bottom:2px solid white;
+   width:250px;
+   font-size:22px;
+   margin-top:5vh;
+   color:white;
+   outline:none;
+  }
+  .xy
+  {
+   Color:Black;
+   Background:Red;
+   border:Dashed Black;
+   padding:4px;
+  }
+  .xz
+  {
+   Color:black;
+   background-color:Gray;
+   border: Dashed Black;
+   padding:4px;
+  }
+  h1
+  {
+   Text-decoration:2px Dashed underline red;
+  font-family:Trattatello, fantasy;
+  text-shadow:2px.2px 3px red;
+  }
+  .h1:first-Letter 
+  {
+   Font-size:45px;
+  }
